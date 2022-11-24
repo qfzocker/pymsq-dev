@@ -24,7 +24,7 @@ apt-get update \
     libharfbuzz-dev \
     libfribidi-dev \
     libmariadb-dev \
-    libmariadbclient-dev \
+    libmariadb-dev-compat \
     libudunits2-dev \
     ftp \
     screen \
