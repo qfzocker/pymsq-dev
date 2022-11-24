@@ -77,14 +77,13 @@ tar -C /opt/openjdk -xf openjdk11.tar.gz
 rm -f openjdk11.tar.gz
 
 ## py3 packages
-#/usr/bin/pip3 install pandas
-#/usr/bin/pip3 install numpy
-#/usr/bin/pip3 install numba
+/usr/bin/pip3 install pandas
+/usr/bin/pip3 install numpy
+/usr/bin/pip3 install scipy
 /usr/bin/pip3 install xlrd
 /usr/bin/pip3 install openpyxl
 /usr/bin/pip3 install sympy
 /usr/bin/pip3 install matplotlib
 /usr/bin/pip3 install seaborn
+/usr/bin/pip3 install numba
 
-## locales
-locale-gen de_CH.UTF-8
